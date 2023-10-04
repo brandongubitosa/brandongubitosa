@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Brandon Gubitosa</h1>
-<h3 align="center">Full Stack Developer with a passion for helping companies improve their bottom line. I am a highly motivated, self-starter risk taker that is not afraid to take on new projects. Personally I have found the best way to figure out a problem is to dive straight into it and learn on the fly.</h3>
+<h3 align="center">A technical content marketing manager with 6+ years in GTM. 3 yrs B2B Mid-Mkt Sales, 1 yr Tech Content Marketing Agency (Data industry), 1 yr Monte Carlo Data (scaled content/GTM from 1M to 10M ARR) & 1.5 yrs Plural (5th FT hire, 1st GTM hire, Drove product signups 200% YoY and drove web traffic from 0 - 15k in first three months)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandongubitosa" alt="brandongubitosa" /> </p>
 
-- 🌱 I’m currently learning **React,Redux & Firebase**
+- 🌱 I’m currently learning **Kubernetes & SQL**
 
-- 👯 I’m looking to collaborate on **React Projects**
+- 👯 I’m looking to collaborate on *Technical Content that drives value for developers and creates pipeline for fast-growing B2B SaaS organizations**
 
-- 🤝 I’m looking for help with **React Projects**
+- 🤝 I’m looking for help with **Creating Compelling Content for technical audiences**
 
-- 📝 I regulary write articles on [https://medium.com/@brandon.gubitosa](https://medium.com/@brandon.gubitosa)
+- 📝 I regulary write articles on [https://medium.com/@brandon.gubitosa](https://medium.com/@brandon.gubitosa) & for https://www.plural.sh
 
 - 📫 How to reach me **brandon.gubitosa@gmail.com**
 
