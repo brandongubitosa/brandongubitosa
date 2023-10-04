@@ -11,7 +11,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@brandon.gubitosa](https://medium.com/@brandon.gubitosa) & for https://www.plural.sh
 
-- 📫 How to reach me **brandon.gubitosa@gmail.com**
+- 📫 How to reach me **Please email me @ brandon.gubitosa@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
